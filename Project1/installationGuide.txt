@@ -1,0 +1,4 @@
+create vertual environment using cmd in terminal :  python -m venv ./venv 
+then activate vertual environment                :  .\venv\Scripts\activate 
+
+install fastAPI with all functionalities         :   pip install fastapi[all]
