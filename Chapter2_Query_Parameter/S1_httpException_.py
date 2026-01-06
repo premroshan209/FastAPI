@@ -1,5 +1,7 @@
 from typing import Any
 
+# HTTPExtception is a special class in FastAPI to handle HTTP errors
+
 from fastapi import FastAPI, HTTPException, status
 from scalar_fastapi import get_scalar_api_reference
 

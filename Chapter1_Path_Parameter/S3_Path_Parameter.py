@@ -1,3 +1,6 @@
+# Path Parameter : Path parameters are dynamic segment of a URL that are used to capture values at specific positions in the URL path.
+
+
 from typing import Any
 from fastapi import FastAPI
 from scalar_fastapi import get_scalar_api_reference

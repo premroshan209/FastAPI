@@ -1,4 +1,11 @@
 from typing import Any
+"""
+Query Parameters: are optional key-value pairs appended to the end or the URL, used to pass additional information to the server.
+in an HTTP request. They are typically used for filtering, sorting, pagination, 
+and other operations that modify the response without changing the resource being accessed.
+
+Example: In the URL `http://example.com/items?category=books&sort=price_asc`, `category` and `sort` are query parameters.
+"""
 
 from fastapi import FastAPI
 
