@@ -1,0 +1,51 @@
+[
+    {
+        "id": 12701,
+        "weight": 2.0,
+        "content": "Aluminium",
+        "status": "placed",
+        "destination": 56455
+    },
+    {
+        "id": 12702,
+        "weight": 14.7,
+        "content": "steel rods",
+        "status": "shipped",
+        "destination": 11003
+    },
+    {
+        "id": 12703,
+        "weight": 11.4,
+        "content": "copper wires",
+        "status": "delivered",
+        "destination": 11002
+    },
+    {
+        "id": 12704,
+        "weight": 17.8,
+        "content": "iron plates",
+        "status": "in transit",
+        "destination": 11005
+    },
+    {
+        "id": 12705,
+        "weight": 10.3,
+        "content": "brass fittings",
+        "status": "returned",
+        "destination": 11008
+    },
+    {
+        "content": "Shirt",
+        "weight": 1.5,
+        "destination": 54564,
+        "id": 12706,
+        "status": "placed"
+    },
+    {
+        "id": 12707,
+        "content": "Shirt",
+        "weight": 1.5,
+        "destination": 54564,
+        "status": "placed"
+    }
+]
